@@ -1,3 +1,6 @@
+html {
+  display;none;
+}
 #canvas {
-background:#FF0000 !important;
+  background:#FF0000 !important;
 }
